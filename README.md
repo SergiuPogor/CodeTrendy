@@ -18,7 +18,7 @@
 
 <br/>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codetrendy?style=social)](https://twitter.com/codetrendy)
+[![Twitter Follow](https://img.shields.io/twitter/follow/CodeTrendyCom?style=social)](https://x.com/CodeTrendyCom)
 [![GitHub Stars](https://img.shields.io/github/stars/codetrendy/codetrendy?style=social)](https://github.com/codetrendy/codetrendy)
 
 </div>
@@ -265,8 +265,13 @@ For code contributions please read [CONTRIBUTING.md](CONTRIBUTING.md).
 <div align="center">
 
 [![Website](https://img.shields.io/badge/🌐_Website-codetrendy.com-FBBF24?style=for-the-badge)](https://codetrendy.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@codetrendy-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codetrendy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CodeTrendy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/codetrendy)
+[![X](https://img.shields.io/badge/X-@CodeTrendyCom-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CodeTrendyCom)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CodeTrendy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/codetrendy/)
+[![Instagram](https://img.shields.io/badge/Instagram-@codetrendycom-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codetrendycom/)
+[![Facebook](https://img.shields.io/badge/Facebook-CodeTrendyCom-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/CodeTrendyCom)
+[![Bluesky](https://img.shields.io/badge/Bluesky-codetrendy.bsky.social-0085FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/codetrendy.bsky.social)
+[![Dev.to](https://img.shields.io/badge/Dev.to-codetrendy-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/codetrendy)
+[![Medium](https://img.shields.io/badge/Medium-codetrendy-000000?style=for-the-badge&logo=medium&logoColor=white)](https://codetrendy.medium.com/)
 [![Email](https://img.shields.io/badge/Email-hello@codetrendy.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@codetrendy.com)
 
 </div>
